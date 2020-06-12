@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Java Quiz</string>
+
+    <string name="question1">1. What of the following is the default value of an instance variable?</string>
+    <string name="question1_choice1">Null</string>
+    <string name="question1_choice2">Zero</string>
+    <string name="question1_choice3">Depend upon type of variable</string>
+
+    <string name="question2">2. Which keyword in java is used to inherit properties from other class?</string>
+
+    <string name="question3">3. Which of the following are primative data types?</string>
+    <string name="question3_choice1">Integer</string>
+    <string name="question3_choice2">Double</string>
+    <string name="question3_choice3">Objects</string>
+    <string name="question3_choice4">Linked Lists</string>
+
+    <string name="question4">4. Calling a function of same name but different arguments ?</string>
+
+    <string name="question5">5 What is size of Float variable?</string>
+    <string name="question5_choice1">16 bit</string>
+    <string name="question5_choice2">64 bit</string>
+    <string name="question5_choice3">32 bit</string>
+
+    <string name="question6">6. Which convection do we use in java to declare variable name ?</string>
+
+    <string name="question7">7. Which of the following is Object Oriented Languages?</string>
+    <string name="question7_choice1">C</string>
+    <string name="question7_choice2">ML</string>
+    <string name="question7_choice3">C++</string>
+    <string name="question7_choice4">Java</string>
+
+    <string name="question8">8. Which keyword is used to make value of variable constant?</string>
+
+    <string name="question9">9. Constructor is not a member method ?</string>
+    <string name="question9_choice1">Yes</string>
+    <string name="question9_choice2">No</string>
+
+    <string name="question10">10. JVM stands for?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
